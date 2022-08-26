@@ -476,6 +476,13 @@ footer {
     grid-template-columns: 1fr 1fr;
     margin-top: 50px;
   }
+  .testimonials-container {
+    margin: 20px 80px ;
+  }
+  .testimonials {
+    max-width: 100%;
+  }
+
 
 }
 /* Mobile Devices */
